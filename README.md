@@ -9,7 +9,7 @@
 | 운영체제 | 파일 |
 |---|---|
 | macOS 13 이상 (Apple 실리콘·인텔 모두) | `Sagak-Jipil_<판>_mac-universal.dmg` |
-| Windows | 준비 중 |
+| Windows 10·11 (64비트) | `Sagak-Jipil_<판>_windows-x64-setup.exe` |
 
 `.app.tar.gz` 와 `latest.json` 은 프로그램 안 자동 업데이트용이라 내려받지 않아도 됩니다.
 
@@ -24,9 +24,7 @@
 
 애플 개발자 서명이 없는 개인 제작 프로그램이라 나오는 절차입니다. macOS 15 부터는 우클릭 '열기'로 넘어가는 방법이 없어졌습니다.
 
-### 윈도우 (준비 중)
-
-윈도우판은 아직 나오지 않았습니다. 나오면 아래처럼 설치합니다.
+### 윈도우
 
 1. `Sagak-Jipil_<판>_windows-x64-setup.exe` 를 실행합니다.
 2. 파란 창 "Windows의 PC 보호"가 뜨면 **[추가 정보]** → **[실행]**.
